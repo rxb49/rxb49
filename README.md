@@ -24,10 +24,10 @@
 
 <p align="center">
  <a href="https://rxb49.fr" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Kévin NIEL" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Robin TIJOU" />
  </a>
  <a href="https://www.linkedin.com/in/robin-tijou-457a6a2a9/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kévin NIEL"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Robin TIJOU"/>
  </a>
  <a href="https://twitter.com/rxb4949" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -120,7 +120,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/keviniel">
+  <a href="https://github.com/rxb49">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rxb49&theme=radical&border=7F3FBF&background=0D1117" alt="rxb49 GitHub streak"/>
   </a>
 </p>
@@ -138,4 +138,4 @@
 </a>
 
 
-![Les infos de Kévin](https://github-readme-activity-graph.vercel.app/graph?username=rxb49&custom_title=Kevin%20NIEL's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Les infos de Robin](https://github-readme-activity-graph.vercel.app/graph?username=rxb49&custom_title=Robin%20TIJOU's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
