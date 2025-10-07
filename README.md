@@ -7,8 +7,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Salut!, moi c'est
-                <b><a target="_blank" href="https://rxb49.fr">Kévin NIEL</a></b>
+        <samp>&gt; Robin Tijou
         </samp>
 </h3>
 
@@ -17,7 +16,7 @@
   <samp>
     <a href="https://rxb49.fr">「 Mon site 」</a>
     <br>
-    「 Je suis un professeur d'informatique qui vient de <b>France</b> 」
+    「 Je suis étudiant en <b>France</b> 」
     <br>
     <br>
   </samp>
@@ -27,7 +26,7 @@
  <a href="https://rxb49.fr" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Kévin NIEL" />
  </a>
- <a href="https://www.linkedin.com/in/rxb49/" target="_blank">
+ <a href="https://www.linkedin.com/in/robin-tijou-457a6a2a9/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kévin NIEL"/>
  </a>
  <a href="https://twitter.com/rxb4949" target="_blank">
